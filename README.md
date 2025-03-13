@@ -1,5 +1,6 @@
-# data-structure created using golang
+# data-structure created using Golang
 
-## Data Structure included
+## Data structure included
 
 1. stack
+2. singlyList
