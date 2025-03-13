@@ -1,7 +1,8 @@
 package main
 
-import "ds/stack"
+import "ds/LinkedList/singly"
 
 func main() {
-	stack.StackOps()
+	// stack.StackOps()
+	singly.LinkedSinglyOps()
 }
